@@ -1,5 +1,5 @@
 # Primeiro_Android_Project_DIO
-Desafio de Projeto criado para avaliação do conteúdo técnico sobre aplicação Android
+Desafio de Projeto criado para avaliação do conteúdo técnico sobre aplicação Android;
 Segue as imagens das duas versões (PT-BR, EN-USA):
 
 
